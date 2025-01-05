@@ -1,0 +1,7 @@
+flavors:
+  python_function:
+    data: model\model.pkl
+    loader_module: mlflow.pyfunc.model
+mlflow_version: 2.17.2
+model_uuid: 4d3d02d1664a4cee832f26960cc69bab
+utc_time_created: '2025-01-05 15:13:48.991210'
